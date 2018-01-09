@@ -1,0 +1,17 @@
+<resources>
+    <string name="text_logo">Coffee Cup Cafe</string>
+    <string name="app_name">Coffee Cup Cafe</string>
+    <string name="phone">Phone:</string>
+    <string name="phone_number">(347) 725-3506</string>
+    <string name="address">Address:</string>
+    <string name="address_location">719 4th Ave, Brooklyn, NY 11232</string>
+    <string name="hours">Hours:</string>
+    <string name="hours_list"><b>Monday</b> 7AM–7PM\n
+        <b>Tuesday</b> 7AM–7PM\n
+        <b>Wednesday</b> 7AM–7PM\n
+        <b>Thursday</b> 7AM–7PM\n
+        <b>Friday</b> 7AM–7PM\n
+        <b>Saturday</b> 7AM–6PM\n
+        <b>Sunday</b> 7AM–6PM\n</string>
+    <string name="slogan">Coffee Shop good place to go with the caffeine.</string>
+</resources>
